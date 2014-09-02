@@ -6,7 +6,7 @@ var rl = readline.createInterface({
   output: process.stdout
 });
 
-console.log(require("../messages.json")[locale].options)
+console.log(require("../messages.json")[locale].options.join(" "));
 
 rl.question("Choose an option? ", function(answer) {
   console.log("Thank you for your valuable feedback:", answer);

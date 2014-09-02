@@ -1,6 +1,14 @@
 {
   "en":{
     "usage": "Usage node app.js [start|stop|reload]",
-    "options":"MENU \n1. Print board \n2. View DB"
+    "options": [
+      "\n1. Print board",
+      "\n2. View DB",
+      "\n3. Play Blitz",
+      "\n4. Play Bullet",
+      "\n5. Play Slow",
+      "\n6. Player List",
+      "\n7. Game List"
+      ]
   }
 }
