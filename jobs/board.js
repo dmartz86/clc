@@ -1,108 +1,29 @@
+var _m = function(number){
+  return String.fromCharCode(number);
+};
 
 console.log(
-  "|"+
-  String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(160)
-  +"|"
+  "|"+ _m(9724) + _m(160) + _m(160) + _m(9724) + _m(160) + _m(160) + _m(9724) + _m(160) + _m(160) + _m(9724) + _m(160) + _m(160) +"|"
+);
+console.log(
+  "|"+ _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) +"|"
+);
+console.log(
+  "|"+ _m(9724)  + _m(160)  + _m(9724)  + _m(160)  + _m(9724)  + _m(160)  + _m(9724)  + _m(160)  +"|"
+);
+console.log(
+  "|"+ _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) +"|"
 );
 console.log(
   "|"+
-  String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  +"|"
+  _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) +"|"
 );
 console.log(
-  "|"+
-  String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  +"|"
+  "|" + _m(160) + _m(9817) + _m(160) + _m(9817) + _m(160) + _m(9817) + _m(160) + _m(9817) + _m(160) + _m(9817) + _m(160) + _m(9817) + _m(160) + _m(9817) + _m(160) +"|"
 );
 console.log(
-  "|"+
-  String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  +"|"
+  "|"+ _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) +"|"
 );
 console.log(
-  "|"+
-  String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  +"|"
-);
-console.log(
-  "|"
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9817)
-  + String.fromCharCode(160)
-  +"|"
-);
-console.log(
-  "|"+
-  String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  +"|"
-);
-console.log(
-  "|"+
-  String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  + String.fromCharCode(160)
-  + String.fromCharCode(9724)
-  +"|"
+  "|"+ _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) + _m(160) + _m(9724) +"|"
 );
