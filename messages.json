@@ -1,0 +1,6 @@
+{
+  "en":{
+    "usage": "Usage node app.js [start|stop|reload]",
+    "options":"MENU \n1. Print board \n2. View DB"
+  }
+}

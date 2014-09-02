@@ -1,0 +1,23 @@
+{
+  "name": "clc",
+  "private": "true",
+  "version": "0.0.1",
+  "description": "Command Line Chess",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dmartz86/clc.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Daniel Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmartz86/clc/issues"
+  },
+  "homepage": "https://github.com/dmartz86/clc"
+}
